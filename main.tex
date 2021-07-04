@@ -1,0 +1,61 @@
+\documentclass[12pt]{rowanthesis}
+% \usepackage{packagename} % Add additional packages like this
+
+% Preamble (PLEASE FILL ALL OF THE INFORMATION)
+%------------------------------------------------------------------------%
+\title{A LOW MEMORY CONTINUAL LEARNING CLASSIFICATION ALGORITHM FOR LOW RESOURCE HARDWARE}
+\author{Autumn Lilly Chadwick} 
+\doclevel{Thesis}
+\department{Computer Science}
+\school{Science and Mathematics}
+\degree{Master of Science in Computer Science}
+\dateofdefense{May 99, 2021}
+\chair{Example Professor Name, Ph.D.}
+\committeememberone{Committee Member 1, Ph.D.}
+\committeemembertwo{Committee Member 2, Ph.D.}
+\committeememberthree{Committee Member 3, Ph.D.}
+\copyrightyear{2022}
+\academicyear{2021-2022}
+%------------------------------------------------------------------------------%
+
+% Document body
+%------------------------------------------------------------------------%
+\begin{document}
+
+% Title Page and Copyright Page
+\makeTitlePage
+
+% Dedications Page
+\input{Dedication}
+
+% ---Front of report (pages numbered in Roman Numerals)---%
+\begin{frontmatter}
+    % Acknowledgements(s) Page (Optional)
+    \input{Acknowledgement}
+    
+    % Abstract
+    \buildAbstract
+    
+    % TOC, LOF and LOT
+    \buildTOC
+    \buildListOfFigures
+    \buildListOfTables   
+    \buildListOfSchemes
+\end{frontmatter}
+%----------------------------------------------------------%
+
+% ---Body of report (pages numbered in Arabic Numerals)---%
+\begin{thesisbody}
+    \input{Chapters/chapter1}
+    \input{Chapters/chapter2}
+    
+    % Bibliography
+    \buildBibliography
+    
+    % Appendices
+    \input{Chapters/appendices}
+    
+\end{thesisbody}
+%---------------------------------------------------------%
+
+\end{document}
