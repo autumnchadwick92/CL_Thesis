@@ -460,7 +460,8 @@
     \begin{singlespace} 
     \setlength\bibitemsep{\baselineskip} 
     \printbibliography[heading=none]
-    \end{singlespace}
+
+	\end{singlespace}
 }
 
 

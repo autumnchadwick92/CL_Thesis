@@ -2347,7 +2347,6 @@
   <bcf:section number="0">
     <bcf:citekey order="1">lesort2020continual</bcf:citekey>
     <bcf:citekey order="2">DBLP:journals/corr/abs-1907-00182</bcf:citekey>
-    <bcf:citekey order="3">example1</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
@@ -2356,13 +2355,4 @@
     </bcf:sort>
   </bcf:sortingtemplate>
   <!-- DATALISTS -->
-  <bcf:datalist section="0"
-                name="none/global//global/global"
-                type="entry"
-                sortingtemplatename="none"
-                sortingnamekeytemplatename="global"
-                labelprefix=""
-                uniquenametemplatename="global"
-                labelalphanametemplatename="global">
-  </bcf:datalist>
 </bcf:controlfile>
