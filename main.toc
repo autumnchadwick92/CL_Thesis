@@ -38,6 +38,28 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.1}Algorithm Design}{4}{section.4.1}%
 \defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Experiment Design}{5}{chapter.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Testing Setup}{5}{section.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Analysis}{6}{chapter.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.1}Simulated Testing}{6}{section.6.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.2}Real Life Testing}{6}{section.6.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}Discussion}{7}{chapter.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.1}Simulated Testing}{7}{section.7.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.2}Real Life Testing}{7}{section.7.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}Conclusion}{8}{chapter.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.1}Micro Continual Learning Algorithm Weighing}{8}{section.8.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.2}Future Plans}{8}{section.8.2}%
+\defcounter {refsection}{0}\relax 
 \renewcommand {\cftsecindent }{0.1em}
 \defcounter {refsection}{0}\relax 
 \renewcommand {\cftsecnumwidth }{2em}
@@ -46,8 +68,8 @@
 \defcounter {refsection}{0}\relax 
  \begingroup \let \l@chapter \l@section \let \l@section \l@subsection 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Appendix \numberline {A}Experimental Equipment}{5}{appendix.a.A}%
+\contentsline {chapter}{Appendix \numberline {A}Experimental Equipment}{9}{appendix.a.A}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Appendix \numberline {B}The Second Appendix}{6}{appendix.a.B}%
+\contentsline {chapter}{Appendix \numberline {B}The Second Appendix}{10}{appendix.a.B}%
 \defcounter {refsection}{0}\relax 
 \endgroup 

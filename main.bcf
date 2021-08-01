@@ -2345,8 +2345,9 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">references.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">lesort2020continual</bcf:citekey>
+    <bcf:citekey order="1">DBLP:journals/corr/abs-1907-00182</bcf:citekey>
     <bcf:citekey order="2">DBLP:journals/corr/abs-1907-00182</bcf:citekey>
+    <bcf:citekey order="3">MCCLOSKEY1989109</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
